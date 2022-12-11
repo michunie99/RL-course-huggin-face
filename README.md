@@ -6,4 +6,5 @@ This repository contains reinforcement learning agent I trained for the Deep Rei
 
 Agent trained using PPO implemented in Stable-Baselines3
 
-[![Agent in action](https://i.imgur.com/vKb2F1B.png)]([https://youtu.be/vt5fpE0bzSY](https://huggingface.co/Michunie/ppo-LunarLander-v2/blob/main/replay.mp4))
+https://user-images.githubusercontent.com/81962102/206899522-0c8fae0d-5dbd-415e-90b0-0b624a9ca59f.mp4
+
