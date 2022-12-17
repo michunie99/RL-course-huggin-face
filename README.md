@@ -12,7 +12,4 @@ https://user-images.githubusercontent.com/81962102/206899522-0c8fae0d-5dbd-415e-
 
 Agent trained using Q-learning implemented form scratch.
 
-https://user-images.githubusercontent.com/81962102/208239300-e7c69c7e-b730-45b2-b265-fe1d9df84acf.mp4
-
-
-
+https://user-images.githubusercontent.com/81962102/208239328-92281d0e-bcee-40ba-ab90-6dec58b35dec.mp4
