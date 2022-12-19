@@ -10,6 +10,6 @@ https://user-images.githubusercontent.com/81962102/206899522-0c8fae0d-5dbd-415e-
 
 ## 2. Taxi-v3
 
-Agent trained using Q-learning implemented form scratch.
+Agent trained using Q-learning implemented from scratch.
 
 https://user-images.githubusercontent.com/81962102/208239328-92281d0e-bcee-40ba-ab90-6dec58b35dec.mp4
