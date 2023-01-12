@@ -18,5 +18,7 @@ https://user-images.githubusercontent.com/81962102/208239328-92281d0e-bcee-40ba-
 
 Agent trained using custom PolicyGradient implemented in PyTorch
 
-https://user-images.githubusercontent.com/81962102/212161477-c652b4a6-dcb0-4a07-96fc-181f479a20db.mp4
+https://user-images.githubusercontent.com/81962102/212161708-b1b6beb8-d722-42e4-8230-3a8e7d0fdf7a.mp4
+
+
 
