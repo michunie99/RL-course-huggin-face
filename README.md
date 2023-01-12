@@ -13,3 +13,10 @@ https://user-images.githubusercontent.com/81962102/206899522-0c8fae0d-5dbd-415e-
 Agent trained using Q-learning implemented from scratch.
 
 https://user-images.githubusercontent.com/81962102/208239328-92281d0e-bcee-40ba-ab90-6dec58b35dec.mp4
+
+## 3. CartPole-v1
+
+Agent trained using custom PolicyGradient implemented in PyTorch
+
+https://user-images.githubusercontent.com/81962102/212161477-c652b4a6-dcb0-4a07-96fc-181f479a20db.mp4
+
