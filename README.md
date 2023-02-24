@@ -28,7 +28,7 @@ https://user-images.githubusercontent.com/81962102/221142096-ed2cc3b9-e8e7-4bba-
 
 ## 5. PandaReachDense-v2
 
-This agent was trained using Stablebasle line inmplementation of A2C (Actor-Critic)
+This agent was trained using Stable-Baselines3 implementation of A2C (Actor-Critic)
 
 https://user-images.githubusercontent.com/81962102/221142336-f972f3dc-07cb-42bc-b591-7565b8fda144.mp4
 
