@@ -26,7 +26,7 @@ Agent trained the same ways as in CartPole. Diffrence beeing the input was an im
 
 https://user-images.githubusercontent.com/81962102/221142096-ed2cc3b9-e8e7-4bba-8ebc-7a7f1fa5ca6f.mp4
 
-## 4. PandaReachDense-v2
+## 5. PandaReachDense-v2
 
 This agent was trained using Stablebasle line inmplementation of A2C (Actor-Critic)
 
